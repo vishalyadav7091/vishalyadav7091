@@ -63,6 +63,3 @@ I'm an aspiring AI and Machine Learning Engineer passionate about developing int
 
 🔗 **[Explore My Repositories](https://github.com/vishalyadav7091?tab=repositories)**
 
-### 📸 3. Photo Studio Booking Website
-
-A web application project for online photography bookings
