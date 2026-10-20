@@ -57,27 +57,6 @@ I'm an aspiring AI and Machine Learning Engineer passionate about developing int
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ 1. AI Surveillance System
-
-A computer vision project focused on security monitoring and automated surveillance.
-
-- Motion detection and event monitoring.
-- Face recognition and unknown-face logging.
-- Security alerts and event recording.
-- **Technologies:** Python, OpenCV, computer vision, and database integration.
-
-🔗 **[View AI Surveillance System](https://github.com/vishalyadav7091/AI_Surveillance_System)**
-
-### 🩺 2. AI Smart Health Predictor
-
-A machine learning application designed to estimate diabetes risk from user-provided health measurements.
-
-- Data preprocessing and classification.
 - Machine learning model integration.
 - Web-based prediction interface.
 - **Technologies:** Python, Pandas, NumPy, scikit-learn, and Flask.
